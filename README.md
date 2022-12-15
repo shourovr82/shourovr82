@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Material UI**
 
-- 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
 - 💬 Ask me about **react, javascript, node js, mongodb**
 
