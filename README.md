@@ -2,9 +2,9 @@
 
 
 <!-- - 👋 Hi, I’m Shafinur Islam aka @shourovr82
-- 👀 I’m interested in Web Design & Development..
-- 🌱 I’m currently learning Node js ...
-- 💞️ I’m looking for a partner ...
+- 👀 I’m interested in Web Development..
+- 🌱 I’m currently learning Node js Mongodb and express ...
+- 💞️ I’m looking for a fulltime job ...
 - 📫 facebook username : shourovr84...
 -  twitter username : shourovr82....
 
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **shafinur512@gmail.com**
 - 📫 How to reach me **+8801931016701(also whatsapp) || +8801317441769**
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1PBGyotEFE3UZRWv7wS-7P313m3bwIwiV/view?usp=sharing](https://drive.google.com/file/d/19kqNqt3Opgd7SDSYc_psnN5mjjKPPRqS/view?usp=sharing))
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19kqNqt3Opgd7SDSYc_psnN5mjjKPPRqS/view?usp=share_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
