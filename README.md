@@ -20,17 +20,17 @@
 
 <p align="left"> <a href="https://twitter.com/shourovr82" target="blank"><img src="https://img.shields.io/twitter/follow/shourovr82?logo=twitter&style=for-the-badge" alt="shourovr82" /></a> </p>
 
-- 🔭 I’m currently working on **REXROX-MUSIC**
+- 🔭 I’m currently working on **REMOSTART(internship)**
 
-- 🌱 I’m currently learning **TypeScript, Material UI**
+- 🌱 I’m currently learning **TypeScript, Node Js, Mongoose , Three Js**
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
-- 💬 Ask me about **react, javascript, node js, mongodb**
+- 💬 Ask me about **React, javascript, node js, express js, mongodb, tailwind**
 
 - 📫 How to reach me **shafinur512@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PBGyotEFE3UZRWv7wS-7P313m3bwIwiV/view?usp=sharing](https://drive.google.com/file/d/1PBGyotEFE3UZRWv7wS-7P313m3bwIwiV/view?usp=sharing)
+- 📫 How to reach me **+8801931016701(also whatsapp) || +8801317441769**
+- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1PBGyotEFE3UZRWv7wS-7P313m3bwIwiV/view?usp=sharing](https://drive.google.com/file/d/19kqNqt3Opgd7SDSYc_psnN5mjjKPPRqS/view?usp=sharing))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
