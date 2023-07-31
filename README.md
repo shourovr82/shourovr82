@@ -27,7 +27,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
-- 💬 Ask me about **React Js, JavaScript, Redux, Node js, Express js, MongoDB, tailwind CSS**
+- 💬 Ask me about ** React Js, Next Js, JavaScript, TypeScript, Redux, Node js, Express js, MongoDB, Mongoose, tailwind CSS**
 
 - 📫 How to reach me **shafinur512@gmail.com**
 - 📫 How to reach me **+8801931016701(also whatsapp) || +8801317441769**
