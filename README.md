@@ -23,7 +23,7 @@
 
 <!-- - 🔭 I’m currently working on **REMOSTART(internship)** -->
 
-- 🌱 I’m currently learning **TypeScript, Express, Node Js, Mongoose , Redux **
+- 🌱 I’m currently learning **SQL PostgresSQL **
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
