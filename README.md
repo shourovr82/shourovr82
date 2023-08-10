@@ -23,7 +23,7 @@
 
 <!-- - 🔭 I’m currently working on **REMOSTART(internship)** -->
 
-- 🌱 I’m currently learning **SQL - PostgreSQL  Database **
+- 🌱 I’m currently learning **SQL - PostgreSQL  - Prisma **
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
