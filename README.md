@@ -36,7 +36,7 @@
 - 📄 Know about my experiences [Resume Link]()
 <!-- https://drive.google.com/file/d/19kqNqt3Opgd7SDSYc_psnN5mjjKPPRqS/view?usp=share_link -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
