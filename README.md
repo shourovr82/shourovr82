@@ -25,7 +25,7 @@
 
 <!-- - 🔭 I’m currently working on **CODEQUIVERS (Fullstack Developer)**  -->
 
-- 🌱 I’m currently learning **  GraphQl , Docker   **
+- 🌱 I’m currently learning **  GraphQl , Docker , Open Ai, Socket Io   **
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
