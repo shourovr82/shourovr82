@@ -32,7 +32,7 @@
 - 💬 Ask Me About ** React JS, Next JS, JavaScript, TypeScript, Redux, Node JS, Express JS, PostgreSQL, Prisma,  MongoDB, Mongoose, Tailwind CSS**
 
 - 📫 How to reach me **shafinur512@gmail.com**
-- 📫 How to reach me ** +8801317441769 **
+- 📫 How to reach me ** +8801317441769 || +8801931016701**
 <!-- - 📄 Know about my experiences [Resume Link]() -->
 <!-- https://drive.google.com/file/d/19kqNqt3Opgd7SDSYc_psnN5mjjKPPRqS/view?usp=share_link -->
 
