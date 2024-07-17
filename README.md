@@ -13,7 +13,7 @@
  
 
 
-<h1 align="center">This is Shafinur Islam ( Shourov | REXROX ) </h1>
+<h1 align="center">This is Shafinur Islam ( SHOUROV | REXROX | SHAFIN ) </h1>
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourovr82&label=Profile%20views&color=0e75b6&style=flat" alt="shourovr82" /> </p>
