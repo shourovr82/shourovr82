@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **CODEQUIVERS (Fullstack Developer 1/2 | Backend Developer)**  
 
-- 🌱 I’m currently learning ** C **
+- 🌱 I’m currently learning ** C++ **
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
