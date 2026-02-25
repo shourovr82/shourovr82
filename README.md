@@ -29,7 +29,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
-- 💬 Ask Me About ** Next JS, React JS, TypeScript, JavaScript, Redux, Express JS, PostgreSQL, Drizzle, Prisma,  Database**
+- 💬 Ask Me About ** Next JS, React JS, TypeScript, JavaScript, Redux, Express JS, Raw SQL, Drizzle, Prisma,  Database**
 
 - 📫 How to reach me **shafinur512@gmail.com**
 - 📫 How to reach me ** +8801317441769 || +8801931016701**
