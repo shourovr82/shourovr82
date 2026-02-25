@@ -13,7 +13,7 @@
  
 
 
-<h1 align="center">This is Shafinur Islam ( SHOUROV | REXROX | SHAFIN ) </h1>
+<h1 align="center">Shafinur Islam ( SHOUROV | REXROX | SHAFIN ) </h1>
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourovr82&label=Profile%20views&color=0e75b6&style=flat" alt="shourovr82" /> </p>
@@ -25,11 +25,11 @@
 
 - 🔭 I’m currently working on **CODEQUIVERS (Fullstack Developer | Backend Developer)**  
 
-- 🌱 I’m currently learning ** C++ **
+- 🌱 I’m currently learning ** App Development with React Native and Flutter **
 
 <!-- - 👨‍💻 All of my projects are available at [https://shourovr82-8e1b4.web.app/](https://shourovr82-8e1b4.web.app/) -->
 
-- 💬 Ask Me About ** Next JS, React JS, JavaScript, TypeScript, Redux, Node JS, Express JS, PostgreSQL, Prisma,  MongoDB, Mongoose, Tailwind CSS**
+- 💬 Ask Me About ** Next JS, React JS, TypeScript, JavaScript, Redux, Express JS, PostgreSQL, Drizzle, Prisma,  Database**
 
 - 📫 How to reach me **shafinur512@gmail.com**
 - 📫 How to reach me ** +8801317441769 || +8801931016701**
